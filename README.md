@@ -1,3 +1,3 @@
 Majoring in Compsci at college
-Minoring in Philosophy and Mathmatics
+\nMinoring in Philosophy and Mathmatics
 
